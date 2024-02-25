@@ -1,0 +1,20 @@
+body{
+    background-color:white;
+}
+.logincontainer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: aliceblue;
+    position: relative;
+    top: 30vh;
+}
+.logincontainer>.login{
+height: 30vh;
+width: 60vw;
+    background-color: blue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
